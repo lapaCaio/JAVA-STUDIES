@@ -10,5 +10,7 @@ public class Main {
 
         System.out.println(a.equalsIgnoreCase(b));
 
+        System.out.println("17:27");
+
     }
 }
