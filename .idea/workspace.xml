@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb7585b-8570-4ac2-a9de-ef6fc514f29f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/src/main/java/lp/caio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/src/main/java/lp/caio/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/src/main/java/lp/caio/TestaPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/src/main/java/lp/caio/TestaPessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/target/classes/lp/caio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/target/classes/lp/caio/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/AULA_051022/TestaPessoa/target/classes/lp/caio/TestaPessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/AULAS/AULA_05102022/TestaPessoa/target/classes/lp/caio/TestaPessoa.class" afterDir="false" />
-    </list>
+    <list default="true" id="adb7585b-8570-4ac2-a9de-ef6fc514f29f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +21,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/CaioP/OneDrive/Área de Trabalho/CODES/REPOSITORIES/JAVA-STUDIES"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CaioP/OneDrive/Área de Trabalho/CODES/REPOSITORIES/JAVA-STUDIES&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\CaioP\OneDrive\Área de Trabalho\CODES\REPOSITORIES\JAVA-STUDIES\AULAS" />
