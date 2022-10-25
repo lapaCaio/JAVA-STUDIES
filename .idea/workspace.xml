@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adb7585b-8570-4ac2-a9de-ef6fc514f29f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CURSO/ClassesObjetos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CURSO/ClassesObjetos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CURSO/ClassesObjetos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CURSO/ClassesObjetos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CURSO/ClassesObjetos/ClassesObjetos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CURSO/ClassesObjetos/src/main/Caneta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +26,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/CaioP/OneDrive/Área de Trabalho/CODES/REPOSITORIES/JAVA-STUDIES&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/CaioP/OneDrive/Área de Trabalho/CODES/REPOSITORIES/JAVA-STUDIES",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\CaioP\OneDrive\Documentos\CODES\REPOSITORIES\JAVA-STUDIES\CURSO\JAVAPOO\src" />
@@ -68,6 +66,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JAVA-STUDIES" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JAVA-STUDIES" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
