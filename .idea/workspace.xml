@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb7585b-8570-4ac2-a9de-ef6fc514f29f" name="Changes" comment="" />
+    <list default="true" id="adb7585b-8570-4ac2-a9de-ef6fc514f29f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CURSO/OperadoresAritmeticos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/OperadoresAritmeticos/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/OperadoresAritmeticos/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/OperadoresAritmeticos/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/OperadoresAritmeticos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/OperadoresAritmeticos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/OperadoresAritmeticos/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/OperadoresAritmeticos/src/main/java/lp/caio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/OperadoresAritmeticos/target/classes/lp/caio/Main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
