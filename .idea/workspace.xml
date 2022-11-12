@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb7585b-8570-4ac2-a9de-ef6fc514f29f" name="Changes" comment="" />
+    <list default="true" id="adb7585b-8570-4ac2-a9de-ef6fc514f29f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/AULA014.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/AULA014.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/out/production/AULA014/aula014/AcoesVideo.class" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/out/production/AULA014/aula014/AcoesVideo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/out/production/AULA014/aula014/Gafanhoto.class" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/out/production/AULA014/aula014/Gafanhoto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/out/production/AULA014/aula014/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/out/production/AULA014/aula014/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/out/production/AULA014/aula014/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/out/production/AULA014/aula014/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/out/production/AULA014/aula014/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/out/production/AULA014/aula014/Video.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/src/aula014/AcoesVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/src/aula014/AcoesVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/src/aula014/Gafanhoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/src/aula014/Gafanhoto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/src/aula014/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/src/aula014/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/src/aula014/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/src/aula014/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CURSO/AULA014/src/aula014/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/CURSO/AULA014&amp;015/src/aula014/Video.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/CaioP/OneDrive/Documentos/CODES/REPOSITORIES/JAVA-STUDIES/CURSO/AULA012",
+    "last_opened_file_path": "C:/Users/CaioP/OneDrive/Documentos/CODES/REPOSITORIES/JAVA-STUDIES/CURSO/AULA014&015",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
