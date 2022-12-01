@@ -7,7 +7,7 @@ public class Main {
 
         ArrayList<Pessoa> pessoas = new ArrayList<>();
 
-        
+
 
         for(Pessoa p : pessoas){
             System.out.println(p.toString());
