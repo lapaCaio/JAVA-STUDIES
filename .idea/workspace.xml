@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb7585b-8570-4ac2-a9de-ef6fc514f29f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AULAS/Template/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/Template/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/Template/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/Template/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/Template/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/Template/Template.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AULAS/Template/src/template/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="adb7585b-8570-4ac2-a9de-ef6fc514f29f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
